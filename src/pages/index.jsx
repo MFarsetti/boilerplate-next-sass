@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import styles from '../../styles/pages/Home.module.scss';
+import styles from './styles.module.scss';
 
 import HomeSlider from '../components/HomeSlider';
 import Header from '../components/Header';

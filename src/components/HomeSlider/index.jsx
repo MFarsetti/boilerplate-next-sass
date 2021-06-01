@@ -1,4 +1,4 @@
-import styles from '../../../styles/components/HomeSlider/HomeSlider.module.scss';
+import styles from './HomeSlider.module.scss';
 
 export default function HomeSlider() {
   return (
